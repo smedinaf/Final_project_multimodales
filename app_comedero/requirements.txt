@@ -1,6 +1,6 @@
 streamlit
 camera_input_live
 pillow
-numpy==1.25.2
-opencv-python-headless
-h5py
+paho-mqtt
+numpy==1.26.4
+--extra-index-url https://download.pytorch.org/whl/cpu
