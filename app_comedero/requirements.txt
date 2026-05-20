@@ -1,6 +1,6 @@
 streamlit
 camera_input_live
 pillow
-numpy<2.0.0
-https://github.com/google-coral/pycoral/releases/download/v2.0.0/tflite_runtime-2.5.0.post1-cp310-cp310-linux_x86_64.whl
-paho-mqtt
+numpy==1.25.2
+opencv-python-headless
+h5py
